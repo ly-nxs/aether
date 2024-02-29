@@ -1,0 +1,11 @@
+{
+  "type": "aether:aether",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "aether:noise",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "preset": "minecraft:overworld"
+    }
+  }
+}
